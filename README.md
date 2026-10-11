@@ -12,9 +12,6 @@
   <a href="https://github.com/ldy2330785100/Lidawn">
     <img src="https://img.shields.io/badge/Maintenance-Active-brightgreen" alt="Maintenance">
   </a>
-  <a href="https://github.com/ldy2330785100/Lidawn/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-brightgreen" alt="License: CC-BY-NC-SA-4.0">
-  </a>
 </div>
 
 ## 🌟 核心功能
@@ -95,14 +92,10 @@
 - 👉 [前往下载](https://github.com/ldy2330785100/Lidawn/releases/)
 
 - <div>
-    <a href="https://github.com/ldy2330785100/Lidawn/commits/main">
-    <img src="https://img.shields.io/github/last-commit/ldy2330785100/Lidawn" alt="GitHub last commit">
-  </a>
-    <br>
   <a href="https://github.com/ldy2330785100/Lidawn/releases">
     <img src="https://img.shields.io/github/v/release/ldy2330785100/Lidawn" alt="GitHub release">
   </a>
-    <br>
+  <br>
   <a href="https://github.com/ldy2330785100/Lidawn/releases">
     <img src="https://img.shields.io/github/release-date/ldy2330785100/Lidawn" alt="Release date">
   </a>
@@ -117,6 +110,13 @@
 1. **项目性质**：本项目为个人技术练习与作品展示，非商业用途，不代表任何官方立场。
 2. **版权与许可**：
    - **代码**：本项目采用 **[CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)** 开源。
+
+   - <div>
+     <a href="https://github.com/ldy2330785100/Lidawn/blob/main/LICENSE">
+       <img src="https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-brightgreen" alt="License: CC-BY-NC-SA-4.0">
+     </a>
+     </div>
+
    - **字体**：项目中引用的字体文件受版权保护，**不包含在 CC-BY-NC-SA-4.0 许可范围内**。
    - **头像**：头像为原创，未经允许禁止商用；如需个人使用请告知作者。
 3. **责任限制**：作者不对因使用本项目代码或访问网站内容导致的任何损失承担责任。
@@ -127,7 +127,7 @@
 - [GitHub](https://github.com) 提供仓库与 Pages 托管服务
 
 - <div>
-    <a href="https://github.com/ldy2330785100/Lidawn">
+  <a href="https://github.com/ldy2330785100/Lidawn">
     <img src="https://img.shields.io/github/repo-size/ldy2330785100/Lidawn" alt="Repo size">
   </a>
   </div>
