@@ -98,9 +98,11 @@
     <a href="https://github.com/ldy2330785100/Lidawn/commits/main">
     <img src="https://img.shields.io/github/last-commit/ldy2330785100/Lidawn" alt="GitHub last commit">
   </a>
+    <br>
   <a href="https://github.com/ldy2330785100/Lidawn/releases">
     <img src="https://img.shields.io/github/v/release/ldy2330785100/Lidawn" alt="GitHub release">
   </a>
+    <br>
   <a href="https://github.com/ldy2330785100/Lidawn/releases">
     <img src="https://img.shields.io/github/release-date/ldy2330785100/Lidawn" alt="Release date">
   </a>
