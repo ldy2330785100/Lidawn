@@ -3,34 +3,17 @@
 欢迎访问我的个人网站！这是一个展示个人信息、作品集与动态交互的静态网页项目。  
 网站支持深色/浅色主题切换、自定义字体、实时运行时长统计、作品展示和精选视频，并包含完整的设置面板与更新日志。
 
+🌐 **前往浏览**：👉[点击跳转](https://ldy2330785100.github.io/Lidawn)
+
 <div>
-  <a href="https://github.com/ldy2330785100/Lidawn/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
-  </a>
   <a href="https://ldy2330785100.github.io/Lidawn/">
     <img src="https://img.shields.io/badge/website-live-brightgreen" alt="Website">
   </a>
-  <br>
-  <a href="https://github.com/ldy2330785100/Lidawn/stargazers">
-    <img src="https://img.shields.io/github/stars/ldy2330785100/Lidawn" alt="GitHub stars">
-  </a>
-  <a href="https://github.com/ldy2330785100/Lidawn/commits/main">
-    <img src="https://img.shields.io/github/last-commit/ldy2330785100/Lidawn" alt="GitHub last commit">
-  </a>
-  <a href="https://github.com/ldy2330785100/Lidawn/releases">
-    <img src="https://img.shields.io/github/v/release/ldy2330785100/Lidawn" alt="GitHub release">
-  </a>
-  <a href="https://github.com/ldy2330785100/Lidawn/releases">
-    <img src="https://img.shields.io/github/release-date/ldy2330785100/Lidawn" alt="Release date">
-  </a>
-  <a href="https://github.com/ldy2330785100/Lidawn">
-    <img src="https://img.shields.io/github/repo-size/ldy2330785100/Lidawn" alt="Repo size">
-  </a>
-  <a href="https://github.com/ldy2330785100/Lidawn/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/m/ldy2330785100/Lidawn" alt="Commit activity">
-  </a>
   <a href="https://github.com/ldy2330785100/Lidawn">
     <img src="https://img.shields.io/badge/Maintenance-Active-brightgreen" alt="Maintenance">
+  </a>
+  <a href="https://github.com/ldy2330785100/Lidawn/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-brightgreen" alt="License: CC-BY-NC-SA-4.0">
   </a>
 </div>
 
@@ -100,7 +83,7 @@
   - 视频比例自适应
   - 帧率统计与滚动性能优化（`requestAnimationFrame`）
 
-## 📱 手机端支持
+## 📱 安卓端支持
 
 本网页拟打包为 **Android APK**，提供两种类型：
 
@@ -111,9 +94,21 @@
 
 - 👉 [前往下载](https://github.com/ldy2330785100/Lidawn/releases/)
 
+- <div>
+    <a href="https://github.com/ldy2330785100/Lidawn/commits/main">
+    <img src="https://img.shields.io/github/last-commit/ldy2330785100/Lidawn" alt="GitHub last commit">
+  </a>
+  <a href="https://github.com/ldy2330785100/Lidawn/releases">
+    <img src="https://img.shields.io/github/v/release/ldy2330785100/Lidawn" alt="GitHub release">
+  </a>
+  <a href="https://github.com/ldy2330785100/Lidawn/releases">
+    <img src="https://img.shields.io/github/release-date/ldy2330785100/Lidawn" alt="Release date">
+  </a>
+  </div>
+
 ## 📝 更新日志
 
-- [ChangeLog](https://ldy2330785100.github.io/Lidawn/changelog.html)
+- 👉[ChangeLog](https://ldy2330785100.github.io/Lidawn/changelog.html)
 
 ## ⚠️ 声明
 
@@ -128,7 +123,14 @@
 ## 🙏 特别鸣谢
 
 - [GitHub](https://github.com) 提供仓库与 Pages 托管服务
-- [DeepSeek](https://platform.deepseek.com/) 提供技术建议与代码优化
+
+- <div>
+    <a href="https://github.com/ldy2330785100/Lidawn">
+    <img src="https://img.shields.io/github/repo-size/ldy2330785100/Lidawn" alt="Repo size">
+  </a>
+  </div>
+
+- [DeepSeek](https://platform.deepseek.com) 提供技术建议与代码优化
 - [RikkaHub](https://rikka-ai.com)提供高效的开发环境
 
 ## 💬 讨论群聊
